@@ -83,3 +83,9 @@ table td, table th {
 tfoot td, table th {
   background: var(--light-gray-color);
 }
+
+@media (max-width: 370px) {
+  h2 {
+    font-size: 4rem;
+  }
+}
